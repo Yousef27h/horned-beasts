@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 
-class Footer extends React.Component{
-  render(){
-    return(
+class Footer extends React.Component {
+  render() {
+    return (
       <div>
-          <h3>Author: Yousef Salem</h3>
+        <h3>Author: Yousef Salem</h3>
       </div>
-    )
+    );
   }
 }
 
