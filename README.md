@@ -1,36 +1,35 @@
 # Class-02: React State and Props
 
-__Number and name of feature:__ 1- Display images
+__1- Display images__
 
-__Estimate of time needed to complete:__ 30 minutes
+Estimate of time needed to complete: 30 minutes
 
-__Start time:__ 2:10
+Start time: 2:10
 
-__Finish time:__ 2:55
+Finish time: 2:55
 
-__Actual time needed to complete:__ 45 minutes
-============================================
+Actual time needed to complete: 45 minutes
 
-__Number and name of feature:__ 2- Allow users to vote for their favorite beast
+ __2- Allow users to vote for their favorite beast__
 
-__Estimate of time needed to complete:__ 1 hour
+Estimate of time needed to complete: 1 hour
 
-__Start time:__ 2:55
+Start time: 2:55
 
-__Finish time:__ 3:50
+Finish time: 3:50
 
-__Actual time needed to complete:__ 55 minutes
-============================================
+Actual time needed to complete: 55 minutes
 
-__Number and name of feature:__ 3- Bootstrap
 
-__Estimate of time needed to complete:__ 30 minutes
+ __3- Bootstrap__
 
-__Start time:__ 9:00
+Estimate of time needed to complete: 30 minutes
 
-__Finish time:__ 9:45
+Start time: 9:00
 
-__Actual time needed to complete:__ 45 minutes
+Finish time: 9:45
+
+Actual time needed to complete: 45 minutes
 
 
 # Getting Started with Create React App
