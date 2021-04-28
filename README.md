@@ -1,3 +1,4 @@
+# Time Extimation
 # Class-02: React State and Props
 
 __1- Display images__
@@ -31,6 +32,17 @@ Finish time: 9:45
 
 Actual time needed to complete: 45 minutes
 
+# Class-03: Passing Functions in Props
+
+Number and name of feature: 1- Display a Modal
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 2:00
+
+Finish time: 7:00
+
+Actual time needed to complete: 7 hours to fully understand it
 
 # Getting Started with Create React App
 
