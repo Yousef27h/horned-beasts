@@ -44,6 +44,17 @@ Finish time: 7:00
 
 Actual time needed to complete: 7 hours to fully understand it
 
+# Class-04: Forms and Filter
+
+Number and name of feature: 1- Filter by Numbers of Horns
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 1:30
+
+Finish time: 4:00
+
+Actual time needed to complete: 2.5 hours 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
