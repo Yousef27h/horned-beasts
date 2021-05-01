@@ -1,4 +1,4 @@
-# Time Extimation
+# Time Estimation
 # Class-02: React State and Props
 
 __1- Display images__
